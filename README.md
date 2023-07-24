@@ -18,7 +18,8 @@ user experience
 ![WhatsApp Image 2023-07-09 at 19 01 47](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/0548f424-edfe-4d8b-9c7d-1b21dce5c8b4)
 ![image](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/127fd89b-52c7-4f5c-b170-15f6531b812c)
 ![image](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/d2d4a7fe-3801-481d-905b-6d6ed7a2c227)
-![Uploading image.png…]()
+![image](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/eaf8ca6e-d99d-493a-8b3e-7395fbb154a5)
+
 
 
 
