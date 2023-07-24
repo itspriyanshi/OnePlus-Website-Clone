@@ -6,5 +6,16 @@ Integrated interactive features and animations to enhance user engagement and pr
 user experience
 
 # Website SnapShots
-!![image](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/c025f9db-747a-4a01-8ea1-fa549aa3ef9d)
-
+![WhatsApp Image 2023-07-09 at 19 03 18](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/3336d6d0-dc1d-46df-bc29-44da33141959)
+![WhatsApp Image 2023-07-09 at 19 03 36](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/3afa3578-2ae9-4904-bbc7-d3bf310af28d)
+![image](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/989e69e9-cb01-4afd-88c9-86e285d2ba95)
+![WhatsApp Image 2023-07-09 at 18 58 07](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/1f6c6f3e-ae1c-48d2-af5c-4cd2a9686766)
+![WhatsApp Image 2023-07-09 at 18 58 34](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/ae08b960-3b9b-4790-956c-31ead757747a)
+![WhatsApp Image 2023-07-09 at 18 58 57](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/563c29f5-43cb-4cbd-bb5c-bbd1425e6913)
+![WhatsApp Image 2023-07-09 at 19 00 03](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/6073d2c1-a280-4772-a54c-c65e3c74a8d8)
+![WhatsApp Image 2023-07-09 at 19 00 39](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/aabbd784-f5fc-4ca3-b2ef-a74d68b4b4b2)
+![WhatsApp Image 2023-07-09 at 19 01 19](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/a057f5a1-bdbb-4a3e-b4f5-f6e217ddf736)
+![WhatsApp Image 2023-07-09 at 19 01 47](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/0548f424-edfe-4d8b-9c7d-1b21dce5c8b4)
+![WhatsApp Image 2023-07-09 at 19 02 04](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/6f938875-73ee-4cc1-9ec3-dbfa63a4b273)
+![WhatsApp Image 2023-07-09 at 19 02 25](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/c79fcbf2-a477-481a-ac09-40ecb4327948)
+![WhatsApp Image 2023-07-09 at 19 02 44](https://github.com/itspriyanshi/OnePlus-Website-Clone/assets/101289071/34becfae-1980-4f54-bdb6-4d482b88b2ea)
